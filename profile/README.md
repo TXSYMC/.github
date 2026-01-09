@@ -14,8 +14,6 @@
     <img src="https://img.shields.io/badge/Discord-星辰秘境-9400D3?style=for-the-badge&logo=discord&logoColor=white" height="48" />
   </a>
 
-</div>
-
 ---
 
 ## 🌌 社群與專案
@@ -27,3 +25,5 @@
 | 🛠️ **開源組件** | 插件、模組與工具開發 | [查看儲存庫](https://github.com/orgs/TXSYMC/repositories) |
 
 ---
+
+</div>
