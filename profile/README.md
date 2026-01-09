@@ -14,14 +14,6 @@
     <img src="https://img.shields.io/badge/Discord-星辰秘境-9400D3?style=for-the-badge&logo=discord&logoColor=white" height="48" />
   </a>
 
-  <br />
-  <br />
-
-  <!-- Online Member Count -->
-  <img src="https://img.shields.io/discord/1247927666170925088?label=太虛神域%20Online&color=5865F2&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/discord/1175288734275612672?label=星辰秘境%20Online&color=9400D3&style=flat-square" />
-
 </div>
 
 ---
